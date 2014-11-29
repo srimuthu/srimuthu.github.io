@@ -1,4 +1,4 @@
-muthunarayanan.github.io
+srimuthu.github.io
 ==================
 
 My personal site
